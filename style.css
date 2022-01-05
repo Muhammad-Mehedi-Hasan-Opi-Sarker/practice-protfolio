@@ -26,3 +26,9 @@ body{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.Dream-big{
+    display: flex;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+}
